@@ -4,13 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelherreravillanueva" alt="miguelherreravillanueva" /> </p>
 
 
-- 🔭 I’m currently working as **Fullstack MERN Teacher Assistant at The Bridge | Digital Talent Accelerator**
-- 🌱 I’m currently learning **IA & Innovation at Founderz**
-- 👯 I’m looking to collaborate on a project where I can grow as a good professional
-- 💬 Ask me about **JavaScript (React, NodeJS), MongoDB (Mongoose) , MySQL (Sequelize)**
-- 📫 How to reach me **mirkouda@gmail.com**
-- ⚡ Fun fact: Taekwondo lover 
--->
+- 🔭 Currently working as **Fullstack MERN Teacher Assistant** at **The Bridge | Digital Talent Accelerator**
+- 🌱 Currently learning **IA & Innovation** at **Founderz**
+- 👯 Looking to collaborate on a project where I can **grow as a good professional**
+- 💬 Things I know: **JavaScript (React, NodeJS), MongoDB (Mongoose) , MySQL (Sequelize)**
+- 📫 Reach me at **mirkouda@gmail.com**
+- ⚡ **Taekwondo lover** 
 
 
 
