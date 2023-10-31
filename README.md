@@ -5,7 +5,7 @@
 
 
 - 🔭 Currently working as **Fullstack MERN Teacher Assistant** at **The Bridge | Digital Talent Accelerator**
-- 🌱 Currently learning **IA & Innovation** at **Founderz**
+- 🌱 Currently learning **AI & Innovation** at **Founderz**
 - 👯 Looking to collaborate on a project where I can **grow as a good professional**
 - 💬 Things I know: **JavaScript (React, NodeJS), MongoDB (Mongoose) , MySQL (Sequelize)**
 - 📫 Reach me at **mirkouda@gmail.com** & **https://www.linkedin.com/in/mherrevi/**
