@@ -39,6 +39,7 @@
  <a>
  <a href="https://github.com/miguelherreravillanueva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelherreravillanueva&theme=radical&border=7F3FBF&background=0D1117" alt="MiguelHerrera's GitHub streak"/></a>
  </a>
+<br/>
 </p>
 <p align="center">
  <a>
