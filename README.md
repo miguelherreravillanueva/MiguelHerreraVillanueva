@@ -11,11 +11,15 @@
 - 📫 Reach me at **mirkouda@gmail.com** & **https://www.linkedin.com/in/mherrevi/**
 - ⚡ **Taekwondo lover** 
 
-
+<a>
 <a href="https://github.com/miguelherreravillanueva"><img alt="MiguelHerrera's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miguelherreravillanueva&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <a href="https://github.com/miguelherreravillanueva"><img alt="MiguelHerrera's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miguelherreravillanueva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</a>  
  
- <a href="https://github.com/miguelherreravillanueva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelherreravillanueva&theme=radical&border=7F3FBF&background=0D1117" alt="MiguelHerrera's GitHub streak"/></a><a href="https://github.com/miguelherreravillanueva"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelherreravillanueva&theme=radical" alt="MiguelHerrera's GitHub Contribution"/></a>
+ <a>
+ <a href="https://github.com/miguelherreravillanueva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelherreravillanueva&theme=radical&border=7F3FBF&background=0D1117" alt="MiguelHerrera's GitHub streak"/></a>
+  <a href="https://github.com/miguelherreravillanueva"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelherreravillanueva&theme=radical" alt="MiguelHerrera's GitHub Contribution"/></a>
+ </a>
  
 </div>
 <div style="display: inline_block"><br>
