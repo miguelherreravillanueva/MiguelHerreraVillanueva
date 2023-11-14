@@ -30,24 +30,23 @@
   <img align="center" alt="Rafa-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">         
 </div>
 <br/>
-<a>
+<p align="left">
 <a href="https://github.com/miguelherreravillanueva"><img alt="MiguelHerrera's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miguelherreravillanueva&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<br/>
-  <a href="https://github.com/miguelherreravillanueva"><img alt="MiguelHerrera's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miguelherreravillanueva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a>  
-<br/>
-<p align="center">
- <a>
- <a href="https://github.com/miguelherreravillanueva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelherreravillanueva&theme=radical&border=7F3FBF&background=0D1117" alt="MiguelHerrera's GitHub streak"/></a>
- </a>
-<br/>
 </p>
+<p align="right">
+  <a href="https://github.com/miguelherreravillanueva"><img alt="MiguelHerrera's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miguelherreravillanueva&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+
+<br/>
 <p align="center">
- <a>
+ <a href="https://github.com/miguelherreravillanueva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelherreravillanueva&theme=radical&border=7F3FBF&background=0D1117" alt="MiguelHerrera's GitHub streak"/></a>
+<br/>
+<p align="center">
   <a href="https://github.com/miguelherreravillanueva"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelherreravillanueva&theme=radical" alt="MiguelHerrera's GitHub Contribution"/></a>
- </a>
 </p>
                        
 ##
+<p align="center">
   <a href = "mailto:contact@miguelherreravillanueva.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mherrevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/mherrevi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
