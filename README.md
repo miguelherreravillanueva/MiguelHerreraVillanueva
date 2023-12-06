@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelherreravillanueva" alt="miguelherreravillanueva" /> </p>
 
 
-- 🔭 Currently working as **Fullstack MERN Teacher Assistant** at **The Bridge | Digital Talent Accelerator**
+- 🔭 Currently working as **Fullstack Developer** at **Oratrex**
 - 🌱 Currently learning **AI & Innovation** at **Founderz**
 - 👯 Looking to collaborate on a project where I can **grow as a good professional**
 - 💬 Things I know: **JavaScript (React, NodeJS), MongoDB (Mongoose) , MySQL (Sequelize)**
