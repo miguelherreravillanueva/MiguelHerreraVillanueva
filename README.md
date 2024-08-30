@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelherreravillanueva" alt="miguelherreravillanueva" /> </p>
 
 
-- 🔭 Currently working as **Fullstack Developer** at **Oratrex**
+- 🔭 Currently working as **Big Data & Cloud Master's Coordinator and Artificial Intelligence Master's Coordinator** at **EDEM Escuela de Empresarios**
 - 🌱 Currently learning **AI & Innovation** at **Founderz**
 - 👯 Looking to collaborate on a project where I can **grow as a good professional**
 - 💬 Things I know: **JavaScript (React, NodeJS), MongoDB (Mongoose) , MySQL (Sequelize)**
